@@ -2,6 +2,8 @@
 
 SkillHive is a decentralized learning platform where knowledge is the only currency. Exchange your expertise for new skills, guided by AI.
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Click_Here-brightgreen?style=for-the-badge)](https://skill-hive-q1nb.vercel.app/)
+
 ## 🚀 Core Features
 - **🧠 AI Synergy Engine**: Semantic peer matching using Gemini 3 Flash.
 - **🗺️ AI Roadmaps**: Personalized 5-step learning paths for any skill.
