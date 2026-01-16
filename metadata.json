@@ -1,0 +1,5 @@
+{
+  "name": "SkillHive",
+  "description": "A peer-to-peer skill-exchange platform where users can teach and learn skills without any monetary transactions. The platform includes user profiles, skills, AI recommendations, matching, chat, scheduling, and feedback.",
+  "requestFramePermissions": []
+}
